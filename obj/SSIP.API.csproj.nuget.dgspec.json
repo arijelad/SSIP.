@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Arijela/Dev/SSIP/SSIP.API/SSIP.API/SSIP.API.csproj": {}
+    "C:\\Users\\Ahmed Halac\\Desktop\\RentTheTrendAH\\SSIP.API.csproj": {}
   },
   "projects": {
-    "/Users/Arijela/Dev/SSIP/SSIP.API/SSIP.API/SSIP.API.csproj": {
+    "C:\\Users\\Ahmed Halac\\Desktop\\RentTheTrendAH\\SSIP.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Arijela/Dev/SSIP/SSIP.API/SSIP.API/SSIP.API.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed Halac\\Desktop\\RentTheTrendAH\\SSIP.API.csproj",
         "projectName": "SSIP.API",
-        "projectPath": "/Users/Arijela/Dev/SSIP/SSIP.API/SSIP.API/SSIP.API.csproj",
-        "packagesPath": "/Users/Arijela/.nuget/packages/",
-        "outputPath": "/Users/Arijela/Dev/SSIP/SSIP.API/SSIP.API/obj/",
+        "projectPath": "C:\\Users\\Ahmed Halac\\Desktop\\RentTheTrendAH\\SSIP.API.csproj",
+        "packagesPath": "C:\\Users\\Ahmed Halac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed Halac\\Desktop\\RentTheTrendAH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Arijela/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Ahmed Halac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,6 +61,10 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
             }
           },
           "imports": [
@@ -79,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
