@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{4714B4F4-4B2F-46C5-BAB3-0F5B7F0C82D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20200706234922_InitialCreate.cs">
+    <Files>
+      <File FileName="Models/Category.cs" Line="17" Column="1" />
+      <File FileName="Models/Vehicle.cs" Line="28" Column="43" />
+      <File FileName="Models/Reservation.cs" />
+      <File FileName="Data/ApplicationDbContext.cs" />
+      <File FileName="Models/Detail.cs" />
+      <File FileName="Models/Repair.cs" />
+      <File FileName="Models/Customer.cs" />
+      <File FileName="Migrations/20200706234922_InitialCreate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SSIP.API" expanded="True">
+            <Node name="SSIP.API" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20200706234922_InitialCreate.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SSIP.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
